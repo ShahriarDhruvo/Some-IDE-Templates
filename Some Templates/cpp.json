@@ -1,0 +1,20 @@
+{
+	"Basic Header": {
+		"prefix": "inc",
+		"description": "Include all the basic things for c++",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"#define FastIO ios_base::sync_with_stdio(false)\n",
+
+			"using namespace std;\n",
+
+			"int main()\n",
+			"{",
+			"\tFastIO;",
+			"\t$1\n",
+
+    		"\treturn 0;",
+			"}"
+		]
+	} 
+}
