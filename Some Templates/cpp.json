@@ -8,7 +8,7 @@
 
 			"using namespace std;\n",
 
-			"int main()\n",
+			"int main()",
 			"{",
 			"\tFastIO;",
 			"\t$1\n",
