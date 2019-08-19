@@ -1,2 +1,2 @@
-# Personal-Projects
-These are some projects done out of personal interest. 
+# Vs Code CPP template
+This is a cpp header template for vs code. Type incl to tigger it. 
