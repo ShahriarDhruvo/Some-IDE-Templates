@@ -1,2 +1,2 @@
-# Vs Code CPP template
-This is a cpp header template for vs code. Type inc to tigger it. 
+# This are some Template for some IDE
+I have made some templates for vs code and sublime form faster coding.
